@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443261846261",
+    "project_id": "fire-set-c7834",
+    "storage_bucket": "fire-set-c7834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443261846261:android:825f890304631e012a7bbc",
+        "android_client_info": {
+          "package_name": "com.example.music_prod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrGscPngNaRQiN-Vizg9H-7OgUNdRr4h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
